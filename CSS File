@@ -1,0 +1,29 @@
+.container{
+    background-color: rgb(205, 207, 207);
+    color: black;
+    align-items: center;
+    text-align: center;
+    width: 320px;
+    height: 250px;
+    border-radius: 10px;
+    margin: 150px;
+    margin-left: 450px;
+    padding: 20px;
+    font-weight: bold;
+}
+.button{
+    height: 40px;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 25px;
+    cursor: pointer;
+}
+#number{
+    margin-top: 30px;
+    font-size: 60px;
+    margin-bottom: 15px;
+}
+body{
+    background-color: rgb(218, 133, 145);
+}
